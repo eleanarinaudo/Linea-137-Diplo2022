@@ -6,7 +6,6 @@
 <h4 align="center";>
     COHORTE 2022
 </h4>
-<hr>
 <h1 align="center";>
     Llamados Atendidos de Violencia Familiar Unificado con Series Temporales
 </h1>
