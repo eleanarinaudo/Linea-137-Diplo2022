@@ -1,17 +1,6 @@
 <html>
-  <h1  align="center";>
-    Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones
-  </h1>
-
-  <h4 align="center";>
-    COHORTE 2022
-  </h4>
-  <hr>
-  <h1 align="center";>
-  Llamados Atendidos de Violencia Familiar Unificado con Series Temporales
-  </h1>
   <h2 align="center";>
-  Trabajo Práctico 1 - Análisis y Visualización
+  Trabajo Práctico 1 - Análisis y Visualización de Datos
   </h2>
 </html>
 
